@@ -1334,7 +1334,7 @@ a {
 .cid-tYYLdHjncK {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #f92c50;
+  background-color: #3a341c;
 }
 .cid-tYYLdHjncK .mbr-fallback-image.disabled {
   display: none;
@@ -1365,6 +1365,42 @@ a {
 }
 .cid-tYYLdHjncK .content-head {
   max-width: 800px;
+}
+.cid-u1DAquI8rt {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-color: #edefeb;
+}
+.cid-u1DAquI8rt .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u1DAquI8rt .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u1DAquI8rt .mbr-text {
+  color: #000000;
+}
+.cid-u1DAquI8rt .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-u1DAquI8rt .main-button {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-u1DAquI8rt .main-button {
+    margin-bottom: 2rem;
+  }
+}
+.cid-u1DAquI8rt .mbr-section-subtitle,
+.cid-u1DAquI8rt .main-button {
+  color: #000000;
 }
 .cid-tYYNNPVe5f {
   padding-top: 8rem;
@@ -1488,9 +1524,9 @@ a {
   align-items: flex-start;
 }
 .cid-tYYTmzprM8 {
-  padding-top: 10rem;
-  padding-bottom: 2rem;
-  background-color: #2b9fb5;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-color: #3a341c;
 }
 .cid-tYYTmzprM8 .item-mb {
   margin-bottom: 2rem;
@@ -1501,7 +1537,7 @@ a {
   }
 }
 .cid-tYYTmzprM8 .item-head {
-  background: #a0e2e1;
+  background: #ffffff;
   padding: 2.25rem;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1518,7 +1554,7 @@ a {
 }
 .cid-tYYTmzprM8 .item-content {
   padding: 2.25rem 2.25rem 0;
-  background: #ffffff;
+  background: #757b62;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .cid-tYYTmzprM8 .item-content {
@@ -1534,7 +1570,7 @@ a {
   border-radius: 2rem;
   overflow: hidden;
   margin-bottom: 2rem;
-  background: #ffffff;
+  background: #757b62;
   padding: 0rem;
   height: 100%;
   display: flex;
@@ -1601,7 +1637,7 @@ a {
 .cid-tYYLwqMhzX {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffd7ef;
+  background-color: #f7f7f7;
 }
 .cid-tYYLwqMhzX .item-subtitle {
   line-height: 1.2;
@@ -1651,47 +1687,41 @@ a {
 .cid-tYYLwqMhzX .content-head {
   max-width: 800px;
 }
-.cid-tYYLyylayE {
+.cid-u1DynyON1U {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #a0e2e1;
+  background-color: #e3ffd2;
 }
-.cid-tYYLyylayE .mbr-fallback-image.disabled {
-  display: none;
+.cid-u1DynyON1U .item-wrapper img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50% !important;
 }
-.cid-tYYLyylayE .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-u1DynyON1U .item-wrapper {
+  margin-bottom: 2rem;
 }
-.cid-tYYLyylayE .mbr-iconfont {
-  margin: auto;
-  display: inline-flex;
-  font-size: 2rem;
-  color: #ffa600;
-  width: 40px;
-  justify-content: center;
-  align-items: center;
+.cid-u1DynyON1U .card-title,
+.cid-u1DynyON1U .iconfont-wrapper {
+  color: #000000;
 }
-.cid-tYYLyylayE .card-title,
-.cid-tYYLyylayE .iconfont-wrapper {
-  color: #232323;
+.cid-u1DynyON1U .card-text {
+  color: #000000;
+  text-align: center;
 }
-.cid-tYYLyylayE .card-text {
-  color: #232323;
-}
-.cid-tYYLyylayE .mbr-section-title {
-  color: #232323;
-}
-.cid-tYYLyylayE .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-tYYLyylayE .content-head {
+.cid-u1DynyON1U .content-head {
   max-width: 800px;
+}
+.cid-u1DynyON1U .mbr-section-title {
+  color: #000000;
+}
+.cid-u1DynyON1U .card-title,
+.cid-u1DynyON1U .img-wrapper {
+  text-align: center;
+}
+.cid-u1DynyON1U .img-wrapper {
+  display: flex;
+  justify-content: center;
 }
 .cid-tYYLA2PeIM {
   padding-top: 6rem;
@@ -1788,7 +1818,7 @@ a {
 .cid-tYYLC7Ny8f {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffd7ef;
+  background-color: #757b62;
 }
 .cid-tYYLC7Ny8f .social-row {
   display: flex;
@@ -1829,7 +1859,7 @@ a {
 .cid-tYYLDuuDPi {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #d70081;
+  background-color: #a6a99c;
 }
 .cid-tYYLDuuDPi .mbr-fallback-image.disabled {
   display: none;
